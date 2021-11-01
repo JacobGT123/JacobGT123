@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JacobGT123
 - 👀 I’m interested in getting into programming
-- 🌱 I’m currently learning JavaScript & Python
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on fresh, amateur projects
 - 📫 How to reach me ... JacobTee2010@live.co.uk
 
